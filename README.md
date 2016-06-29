@@ -3,7 +3,9 @@
 Vladwoguer Bezerra based on Silberschatz OS book to practise client-server comunication.
 
 To run:
+
 javac DateServer.java
+
 java DateServer
 
 On browser access:
